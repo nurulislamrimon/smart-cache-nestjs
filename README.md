@@ -2,6 +2,9 @@
 
 Minimal Redis caching for NestJS. Reduced to the smallest possible code.
 
+**Author**: [Nurul Islam Rimon](https://github.com/nurulislamrimon)  
+**GitHub**: https://github.com/nurulislamrimon/smart-cache-nestjs
+
 ## Install
 
 ```bash
@@ -131,3 +134,11 @@ SmartCacheModule.forRootAsync({
 ```
 
 That's it. No boilerplate.
+
+## Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## License
+
+MIT

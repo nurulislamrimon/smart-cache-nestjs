@@ -1,7 +1,7 @@
 {
   "name": "smart-cache-nestjs",
   "version": "1.0.0",
-  "description": "Production-grade Redis caching module for NestJS applications",
+  "description": "Minimal Redis caching for NestJS. Reduced to the smallest possible code.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -18,8 +18,22 @@
     "nestjs-cache",
     "ioredis"
   ],
-  "author": "",
+  "homepage": "https://github.com/nurulislamrimon/smart-cache-nestjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurulislamrimon/smart-cache-nestjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nurulislamrimon/smart-cache-nestjs/issues"
+  },
+  "author": "Nurul Islam Rimon",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Nurul Islam Rimon",
+      "url": "https://github.com/nurulislamrimon"
+    }
+  ],
   "dependencies": {
     "ioredis": "^5.3.2",
     "reflect-metadata": "^0.2.1"
