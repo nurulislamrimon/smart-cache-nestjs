@@ -1,6 +1,6 @@
 # smart-cache-nestjs
 
-Minimal Redis caching for NestJS. Reduced to the smallest possible code.
+Minimal Redis caching for NestJS v10/v11. Reduced to the smallest possible code.
 
 **Author**: [Nurul Islam Rimon](https://github.com/nurulislamrimon)  
 **GitHub**: https://github.com/nurulislamrimon/smart-cache-nestjs
